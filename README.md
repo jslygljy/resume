@@ -5,7 +5,7 @@
 
 **关注微信公众号，扫描二维码**
 <div align="center">
-<img src="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3004780065&token=1363936025&style=1" alt=""/><br>
+<img src="https://github.com/jslygljy/resume/blob/master/qrcode.jpg" alt=""/><br>
 </div>
 
 **关注微博，交个朋友**
